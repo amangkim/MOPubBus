@@ -1,1 +1,1 @@
-# MOPubBus
+# Macao Public Bus (MOPubBus) Data Description
