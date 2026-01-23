@@ -1,4 +1,4 @@
-##  :macau: :round_pushpin:   MOPubBus Datasets
+##  :macau: :round_pushpin:   MOPubBus Datasets 2025
 
  
 ### Data Segmentation
@@ -7,11 +7,11 @@ The file names of datasets indicate the segmentation of Macao bus data which are
 | File name (structure)                    | File type | Bus Route | Season|
 | :--                                  | :-:       |  :-:      | :-:   |
 | **arrival_records\_{BusRoute}\_d0_{Season}_{revision (internal)}**   | .csv      |  {BusRoute}        | {Season} |
-| arrival_records_3_d0_grandprix_r02   | .csv      |  3        | :racing_car: :macau:  |
-| arrival_records_3_d0_normal_r02      | .csv      |  3        | :bus:        |
-| arrival_records_15_grandprix_r02     | .csv      |  15       | :racing_car: :macau: |
-| arrival_records_15_normal_r02        | .csv      |  15       | :bus:        |
-| arrival_records_AP1_normal_r02       | .csv      |  AP1      | :bus:        |
+| 3_grandprix_2025_data   | .csv      |  3        | :racing_car: :macau:  |
+| 3_normal_2025_data      | .csv      |  3        | :bus:        |
+| 15_grandprix_2025_data     | .csv      |  15       | :racing_car: :macau: |
+| 15_normal_2025_data        | .csv      |  15       | :bus:        |
+| AP1_normal_2025_data       | .csv      |  AP1      | :bus:        |
 |    :black_small_square:   :black_small_square:   :black_small_square:    |
 
 
