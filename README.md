@@ -20,22 +20,19 @@ Through **correlation analysis**, **Principal Component Analysis (PCA)**, and **
 ---
 
 ## 📂 Repository Structure
-MOPubBus/
-├── 2024/ # 2024 Data Analysis
-│ ├── datasets/ # Raw datasets (CSV)
-│ ├── sourcecodes/ # Python analysis scripts
-│ ├── Supplementary_MacauBus_2024_Pub_AMG.pdf # Supplementary document
-│ └── README.md # Detailed 2024 documentation
-│
-├── 2025/ # 2025 Data Analysis
-│ ├── datasets/ # Raw datasets (CSV)
-│ ├── sourcecodes/ # Python analysis scripts
-│ ├── Supplementary_MacauBus_Pub_AMG.pdf # Supplementary document
-│ └── README.md # Detailed 2025 documentation
-│
-└── README.md # This file (top-level overview)
 
-text
+- `MOPubBus/`
+  - `2024/` — 2024 Data Analysis
+    - `datasets/` — Raw datasets (CSV)
+    - `sourcecodes/` — Python analysis scripts
+    - `Supplementary_MacauBus_2024_Pub_AMG.pdf` — Supplementary document
+    - `README.md` — Detailed 2024 documentation
+  - `2025/` — 2025 Data Analysis
+    - `datasets/` — Raw datasets (CSV)
+    - `sourcecodes/` — Python analysis scripts
+    - `Supplementary_MacauBus_Pub_AMG.pdf` — Supplementary document
+    - `README.md` — Detailed 2025 documentation
+  - `README.md` — This file
 
 ---
 
