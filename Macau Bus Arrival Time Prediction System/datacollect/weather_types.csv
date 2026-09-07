@@ -1,0 +1,17 @@
+weather conditions,numerical value
+Other,0
+Clear,1
+Clouds,2
+Drizzle,3
+Rain,4
+Thunderstorm,5
+Mist,0
+Smoke,0
+Haze,0
+Dust,0
+Fog,0
+Sand,0
+Dust,0
+Ash,0
+Squall,0
+Tornado,0
