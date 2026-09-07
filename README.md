@@ -32,6 +32,12 @@ Through **correlation analysis**, **Principal Component Analysis (PCA)**, and **
     - `sourcecodes/` — Python analysis scripts
     - `Supplementary_MacauBus_Pub_AMG.pdf` — Supplementary document
     - `README.md` — Detailed 2025 documentation
+  - `Macau Bus Arrival Time Prediction System/` — Bus arrival time prediction (ML models)
+    - `MLsystem/`
+      - `route3/` — Route 3 datasets and model notebooks (KNN, RF, XGBoost)
+      - `routeAP1/` — AP1 datasets and model notebooks (KNN, RF, XGBoost)
+    - `datacollect/` — Real-time bus & weather data collection scripts
+    - `README.md` — Detailed prediction system documentation
   - `README.md` — This file
 
 ---
@@ -42,6 +48,7 @@ Through **correlation analysis**, **Principal Component Analysis (PCA)**, and **
 |------|------------------|
 | **2024** | [MOPubBus/2024](https://github.com/amangkim/MOPubBus/tree/main/2024) |
 | **2025** | [MOPubBus/2025](https://github.com/amangkim/MOPubBus/tree/main/2025) |
+| **Prediction System** | [Macau Bus Arrival Time Prediction System](https://github.com/amangkim/MOPubBus/tree/main/Macau%20Bus%20Arrival%20Time%20Prediction%20System) |
 
 Each subdirectory contains:
 - Raw CSV datasets (`datasets/`)
