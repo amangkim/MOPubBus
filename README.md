@@ -110,6 +110,11 @@ Each subdirectory contains:
 - Highlights interquartile ranges
 - Compares distribution differences between periods
 
+### 4. Bus Arrival Time Prediction
+- Integrates real-time bus data with weather conditions to predict arrival times
+- Trains and compares KNN, Random Forest, and XGBoost models
+- Evaluates prediction performance to identify the best-performing approach
+
 ---
 
 ## 📧 Contact
